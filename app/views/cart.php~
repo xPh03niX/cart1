@@ -40,7 +40,7 @@
     <label for="pickup" class="pickup"> Pick Up Yourself <br> (No additional costs) </label>
 
     <input type="radio" name="transport-type" id="ups" value="4">
-    <label for="ups" class="ups"> UPS <br> (Adds $4) </label>
+    <label for="ups" class="ups"> UPS <br> (Adds $5) </label>
 
     <div class="cart__amount">
       Total: $<span id="cart__total"><?= $total; ?></span>
