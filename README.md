@@ -11,3 +11,4 @@ There's a 'test' account stored in the database
 - User: test@gmail.com  
 - Password: 123Abc
 
+I don't particularly like PHP - i believe that it should disappear.
